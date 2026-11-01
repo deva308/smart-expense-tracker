@@ -1,0 +1,9 @@
+# Compiled program
+*.exe
+expense_tracker
+
+# Data created when the program runs
+users.txt
+expenses_*.txt
+budget_*.txt
+report_*.txt
