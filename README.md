@@ -2,6 +2,11 @@
 
 BCA I Semester (Session 2026-2027), Course BCA111P
 
+**Submission files**
+
+- [Lab Report (PDF)](Lab_Report_Expense_Tracker.pdf): objective, algorithm, source code, sample input/output and conclusion
+- [Source Code (expense_tracker.cpp)](expense_tracker.cpp)
+
 A menu-driven C++ program that helps a student record daily expenses, categorize spending, monitor a monthly budget and predict whether the budget will be exceeded.
 
 ## Features
